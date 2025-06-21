@@ -44,7 +44,7 @@ This is a live demonstration using two web pages to show the vulnerability in ac
 ### Live Demonstration Steps:
 
 1.  **Visit the Attacker's Page:** The user is tricked into visiting the attacker's website.
-    *   **Link:** [https://akhilagilgal.io/attacker.html](https://akhilagilgal.io/attacker.html)
+    *   **Link:** [https://akhilagilgal.github.io/attacker.html](https://akhilagilgal.github.io/attacker.html)
 
 2.  **Click the Malicious Link:** The user clicks a link disguised as a prize or a required update. This action takes them to the vulnerable website, but with the attacker's malicious URL.
 
